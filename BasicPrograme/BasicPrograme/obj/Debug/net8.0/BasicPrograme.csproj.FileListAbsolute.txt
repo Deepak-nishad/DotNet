@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\bin\Debug\net8.0\BasicPrograme.exe
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\bin\Debug\net8.0\BasicPrograme.deps.json
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\bin\Debug\net8.0\BasicPrograme.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\bin\Debug\net8.0\BasicPrograme.dll
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\bin\Debug\net8.0\BasicPrograme.pdb
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.sourcelink.json
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.dll
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\refint\BasicPrograme.dll
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.pdb
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\BasicPrograme.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\BasicPrograme\BasicPrograme\obj\Debug\net8.0\ref\BasicPrograme.dll

@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\bin\Debug\net8.0\StringAssignmentDll.deps.json
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\bin\Debug\net8.0\StringAssignmentDll.dll
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\bin\Debug\net8.0\StringAssignmentDll.pdb
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.sourcelink.json
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.dll
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\refint\StringAssignmentDll.dll
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\StringAssignmentDll.pdb
+C:\Users\user\Desktop\DotNet\Day3\StringAssignmentDll\obj\Debug\net8.0\ref\StringAssignmentDll.dll

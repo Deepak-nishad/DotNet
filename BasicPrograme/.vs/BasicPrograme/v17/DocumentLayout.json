@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\DotNet\\BasicPrograme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DCE1E4-E854-44FF-B855-F675333C3F42}|Array\\Array.csproj|c:\\users\\user\\desktop\\dotnet\\basicprograme\\array\\array2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DCE1E4-E854-44FF-B855-F675333C3F42}|Array\\Array.csproj|solutionrelative:array\\array2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DCE1E4-E854-44FF-B855-F675333C3F42}|Array\\Array.csproj|c:\\users\\user\\desktop\\dotnet\\basicprograme\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DCE1E4-E854-44FF-B855-F675333C3F42}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DotNet\\BasicPrograme\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DotNet\\BasicPrograme\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:39:55.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array2D.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DotNet\\BasicPrograme\\Array\\Array2D.cs",
+              "RelativeDocumentMoniker": "Array\\Array2D.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DotNet\\BasicPrograme\\Array\\Array2D.cs",
+              "RelativeToolTip": "Array\\Array2D.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:38:33.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
